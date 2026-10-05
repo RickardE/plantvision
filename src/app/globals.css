@@ -1,0 +1,52 @@
+@import "tailwindcss";
+
+/* Brand palette taken from the PlantVision design deck. */
+@theme {
+  --color-forest-950: #16291f;
+  --color-forest-900: #1f3a2e;
+  --color-forest-800: #2a4c3c;
+  --color-forest-700: #3a6250;
+  --color-sage-100: #e8eee9;
+  --color-sage-200: #d5e0d8;
+  --color-sage-400: #8fb09b;
+  --color-cream-50: #fbf8f2;
+  --color-cream-100: #f5f0e6;
+  --color-cream-200: #ebe4d6;
+  --color-cream-300: #ddd3c1;
+  --color-coral-500: #e8795a;
+  --color-coral-600: #d7623f;
+  --color-ink-900: #1c1f1d;
+  --color-ink-600: #5b605c;
+  --color-ink-400: #8d928e;
+
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, sans-serif;
+  --font-serif: var(--font-serif-display), ui-serif, Georgia, serif;
+
+  --radius-card: 1.25rem;
+  --shadow-card: 0 1px 2px rgb(28 31 29 / 0.04), 0 4px 16px rgb(28 31 29 / 0.05);
+}
+
+@layer base {
+  html {
+    -webkit-tap-highlight-color: transparent;
+  }
+  body {
+    @apply bg-cream-100 font-sans text-ink-900;
+  }
+  h1,
+  h2,
+  h3 {
+    @apply font-serif tracking-tight;
+  }
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-coral-500;
+  }
+}
+
+@utility pb-safe {
+  padding-bottom: max(env(safe-area-inset-bottom), 0.5rem);
+}
+
+@utility pt-safe {
+  padding-top: env(safe-area-inset-top);
+}

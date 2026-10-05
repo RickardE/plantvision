@@ -1,0 +1,38 @@
+# #########################################################################################################;;;;;;;;;;;;
+articleNo;description;statusCode;productGroupId;subtypeId;supplierId;priceIn;priceOut;stockable;salesAccount;color;size;pictureUrl
+ARC-CU 1;ARCHITECT CUBICO 1 SVART (2026);0;100;;132;1309;3272.5;true;;SVART;42x42x90;https://3wfactoryclarius.azurewebsites.net/Content/Files/Architect_Cubico_646.jpg
+ARC-CU 2;ARCHITECT CUBICO 2 SVART (2026);0;100;;132;879.75;2199.38;true;;SVART;32x32x70;https://3wfactoryclarius.azurewebsites.net/Content/Files/Architect_Cubico_646.jpg
+ARC-CUBE 1;ARCHITECT CUBE 1 SVART (2026);0;100;;132;1632;4080;true;;SVART;51x51x52.5;https://3wfactoryclarius.azurewebsites.net/Content/Files/ArchitechtCube1-ins_646.jpg
+ARC-CUBE 2;ARCHITECT CUBE 2 SVART (2026);0;100;;132;1088;2720;true;;SVART;41x41x44;https://3wfactoryclarius.azurewebsites.net/Content/Files/ArchitechtCube2_646.jpg
+ARC-NW 1;ARCHITECT NEW WIDE 1 SVART (2026);0;100;;132;3068.5;7671.25;true;;SVART;115.5x41.5x72;https://3wfactoryclarius.azurewebsites.net/Content/Files/ArchitectWide2_646.jpg
+DUR-VA 1 N;DURA VASO 1 NATURE (2026);0;100;;132;969;2422.5;true;;NATURE;45x56;https://3wfactoryclarius.azurewebsites.net/Content/Files/dura_vaso_1_nfc_tag_646.jpg
+DUR-VA 2 N;DURA VASO 2 NATURE (2026);0;100;;132;620.5;1551.25;true;;NATURE;37x48;https://3wfactoryclarius.azurewebsites.net/Content/Files/dura_vaso_1_nfc_tag_646.jpg
+ECH-BE 0 B;ECHO BELLY 0 BLACK (2026);0;100;;132;1445;3612.5;true;;BLACK;58x58;https://3wfactoryclarius.azurewebsites.net/Content/Files/echo_belly_nfc_646.jpg
+LIQ-2 R;LIGHT QUADRO 43 CM RED (2026);0;100;;132;739.5;1848.75;true;;RED;43x43x40;https://3wfactoryclarius.azurewebsites.net/Content/Files/Light_Quadro_Red_646.jpg
+LIQ-2 S;LIGHT QUADRO 43 CM SVART (2026);0;100;;132;739.5;1848.75;true;;SVART;43x43x40;https://3wfactoryclarius.azurewebsites.net/Content/Files/light_quadro_black_aio_646.jpg
+LIQ-2 V;LIGHT QUADRO 43 CM VIT (2026);0;100;;132;739.5;1848.75;true;;VIT;43x43x40;https://3wfactoryclarius.azurewebsites.net/Content/Files/light_quadro_white_aio_646.jpg
+LIQ-3 AG;LIGHT QUADRO 35 CM GREY (2026);0;100;;132;510;1275;true;;GREY;35x35x33;https://3wfactoryclarius.azurewebsites.net/Content/Files/light_quadro_antracite_aio_646.jpg
+ID357784;Abelia grandiflora (2026);0;200;;133;79.50;235.32;true;;;Bredd: 17 Höjd: 30;https://img.noviflora.com/images/3560503/490.jpg
+ID17706395;Abelia grandiflora Jelly Beans (2026);0;200;;133;204.00;603.84;true;;;Bredd: 26 Höjd: 60;https://img.noviflora.com/images/3553265/490.jpg
+ID17706386;Abelia grandiflora Kaleidoscope (2026);0;200;;133;204.00;603.84;true;;;Bredd: 26 Höjd: 50;https://img.noviflora.com/images/3553266/490.jpg
+ID338910;Aglaonema Maria (2026);0;200;;133;73.00;216.08;true;;;Bredd: 14 Höjd: 35;https://img.noviflora.com/images/3535626/490.jpg
+ID1892069;Aglaonema Maria (2026);0;200;;133;41.20;121.952;true;;;Bredd: 11 Höjd: 30;https://img.noviflora.com/images/2960719/490.jpg
+ID106599;Aglaonema Maria Christina (2026);0;200;;133;60.50;179.08;true;;;Bredd: 14 Höjd: 40;https://img.noviflora.com/images/2960722/490.jpg
+ID17759267;Guzmania Ostara (2026);0;200;;133;35.90;106.264;true;;;Bredd: 9 Höjd: 25;https://img.noviflora.com/images/3363917/490.jpg
+ID17895773;Guzmania Priscilla (2026);0;200;;133;44.10;130.536;true;;;Bredd: 10,5 Höjd: 30;https://img.noviflora.com/images/3516205/490.jpg
+ID15102493;Guzmania Punta (2026);0;200;;133;51.00;150.96;true;;;Bredd: 12 Höjd: 40;https://img.noviflora.com/images/2802724/490.jpg
+ID17865965;Guzmania Redtix (2026);0;200;;133;61.00;180.56;true;;;Bredd: 12 Höjd: 45;https://img.noviflora.com/images/3363914/490.jpg
+ID149472;Vinca major Variegata (2026);0;200;;133;94.00;278.24;true;;;Bredd: 9 Höjd: 10;https://img.noviflora.com/images/3156656/490.jpg
+ID149482;Vinca major Variegata (2026);0;200;;133;14.70;43.512;true;;;Bredd: 9 Höjd: 15;https://img.noviflora.com/images/3280266/490.jpg
+ID043872;Vinca minor (2026);0;200;;133;14.70;43.512;true;;;Bredd: 9 Höjd: 15;https://img.noviflora.com/images/3280294/490.jpg
+ID17912222;Acer palm. Masu-Kagami (2026);0;200;;133;51400.00;152144;true;;;Bredd:  Höjd: 425;https://img.noviflora.com/images/3531105/490.jpg
+ID437308;Acer palm. Osakazuki (2026);0;200;;133;38800.00;114848;true;;;Bredd:  Höjd: 500;https://img.noviflora.com/images/3390694/490.jpg
+ID17852742;Anthurium andr. Acropolis (2026);0;200;;133;41.80;123.728;true;;;Bredd:  Höjd: 13;https://img.noviflora.com/images/2180445/490.jpg
+ID2945249;Abby M (2026);0;100;;133;431.00;1077.5;true;;Light Grey(P3033-30-22) Depth:30cm/Opening:25cm;Bredd: 35 Höjd: 30;https://img.noviflora.com/images/2203381/490.jpg
+ID17718342;Mos IJslandmos (2026);0;300;;133;192.00;480;true;;;Bredd:  Höjd:;https://img.noviflora.com/images/2925976/490.jpg
+ID2714078;Rhododendron yak. Blurettia (2026);0;200;;133;210.00;621.6;true;;;Bredd: 23 Höjd: 40;https://img.noviflora.com/images/3338661/490.jpg
+ID2714078;Rhododendron yak. Blurettia (2026);0;200;;133;194.00;574.24;true;;;Bredd: 23 Höjd: 40;https://img.noviflora.com/images/3338661/490.jpg
+ID2945249;Abby M (2026);0;100;;133;416.00;1040;true;;Light Grey(P3033-30-22) Depth:30cm/Opening:25cm;Bredd: 35 Höjd: 30;https://img.noviflora.com/images/2203381/490.jpg
+# a comment between rows
+;Missing article number;0;100;;132;1;2;true;;;10x10;
+X-UNKNOWN;Unknown group item (2026);0;999;;132;1;2;true;;;10x10;
